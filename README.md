@@ -22,7 +22,7 @@ Many people Selling it 😂 But now it's FREE
 - [x] It's FREE & Original
 
 ### Installation
-Video Tutorial: https://youtu.be/LJ6Fkw4UM70 Thanks! to GreyMatter
+Video Tutorial: https://www.youtube.com/channel/UC8FSntqgkWcRjCSwmGEVx6w Thanks! to Tech_HEro
 
 Create a Account on Heroku & Click on Deploy.
 Setup your Bot Token and MDisk API key & click on Deploy App.
